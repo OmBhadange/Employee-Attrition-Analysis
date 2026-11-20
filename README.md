@@ -43,7 +43,7 @@ Dataset Source: [IBM HR Analytics Dataset – Kaggle](https://www.kaggle.com/dat
 ```text
 Employee-Attrition-Analysis/
 │
-├── Peoject1 (1).ipynb
+├── Employee_Attrition_Analysis.ipynb
 ├── Feature_Dictionary.csv
 └── README.md
 ```
