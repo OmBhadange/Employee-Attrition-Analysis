@@ -1,0 +1,36 @@
+Feature Name,Data Type,Unique Values,Missing Values,Description
+Age,int64,43,0,Age of employee
+Attrition,object,2,0,Whether employee left the company
+BusinessTravel,object,3,0,Frequency of business travel
+DailyRate,int64,886,0,Daily salary rate
+Department,object,3,0,Employee department
+DistanceFromHome,int64,29,0,Distance between home and workplace
+Education,int64,5,0,Employee education level
+EducationField,object,6,0,Employee education specialization
+EmployeeCount,int64,1,0,Additional employee-related information
+EmployeeNumber,int64,1470,0,Additional employee-related information
+EnvironmentSatisfaction,int64,4,0,Satisfaction with work environment
+Gender,object,2,0,Employee gender
+HourlyRate,int64,71,0,Additional employee-related information
+JobInvolvement,int64,4,0,Level of job involvement
+JobLevel,int64,5,0,Employee job level
+JobRole,object,9,0,Employee job position
+JobSatisfaction,int64,4,0,Employee job satisfaction
+MaritalStatus,object,3,0,Employee marital status
+MonthlyIncome,int64,1349,0,Monthly employee income
+MonthlyRate,int64,1427,0,Monthly rate
+NumCompaniesWorked,int64,10,0,Number of companies previously worked
+Over18,object,1,0,Additional employee-related information
+OverTime,object,2,0,Whether employee works overtime
+PercentSalaryHike,int64,15,0,Percentage salary increase
+PerformanceRating,int64,2,0,Employee performance rating
+RelationshipSatisfaction,int64,4,0,Relationship satisfaction level
+StandardHours,int64,1,0,Additional employee-related information
+StockOptionLevel,int64,4,0,Additional employee-related information
+TotalWorkingYears,int64,40,0,Total years of work experience
+TrainingTimesLastYear,int64,7,0,Training sessions attended last year
+WorkLifeBalance,int64,4,0,Work and personal life balance
+YearsAtCompany,int64,37,0,Years spent in current company
+YearsInCurrentRole,int64,19,0,Years in current job role
+YearsSinceLastPromotion,int64,16,0,Years since last promotion
+YearsWithCurrManager,int64,18,0,Years working with current manager
